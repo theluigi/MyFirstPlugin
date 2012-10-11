@@ -1,0 +1,10 @@
+name: FirstPlugin
+main: edu.unca.jruggier.FirstPlugin.FirstPlugin
+version: 1.0
+commands:
+  glass:
+  	description: give the player a block of glass
+  chest:
+ 	description: give the player a chest
+  diamond:
+  	description: give the player a block of diamond
